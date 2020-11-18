@@ -1,0 +1,13 @@
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.exe
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.deps.json
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.json
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.runtimeconfig.dev.json
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.dll
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\bin\Debug\netcoreapp3.1\AssignmentMid.pdb
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csprojAssemblyReference.cache
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfoInputs.cache
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.AssemblyInfo.cs
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.dll
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.pdb
+C:\Users\m\source\repos\AssignmentMid\AssignmentMid\obj\Debug\netcoreapp3.1\AssignmentMid.genruntimeconfig.cache
