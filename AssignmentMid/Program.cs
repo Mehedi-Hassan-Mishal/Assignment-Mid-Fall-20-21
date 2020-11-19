@@ -9,21 +9,36 @@ namespace AssignmentMid
         static void Main(string[] args)
         {
             Department cse = new Department("CSE");
-            Course csharp = new Course("OOP2", "111");
-            Course java = new Course("JAVA", "222");
-            cse.AddCourse(algo);
-            cse.AddCourse(java);
+
+            Course c1 = new Course("OOP1", "111",14.0f);
+            Course c2 = new Course("OOP2", "222",12.5f);
+
+            cse.AddCourse(c1);
+            cse.AddCourse(c2);
+
             Section x = new Section("X");
             Section y = new Section("Y");
-            algo.AddSection(x);
-            java.AddSection(y);
-            Faculty mrAlex = new Faculty("Mr. Alex", "112233", 12.0f);
-            mrAlex.AddSection(x);
-            mrAlex.AddSection(y);
-            x.AddTeacher(mrAlex);
-            y.AddTeacher(mrAlex);
-            java.ShowSectionTeacher();
-            mrAlex.ShowSectionDetails();
+            Section z = new Section("Z");
+
+            c1.AddSection(x);
+            c2.AddSection(y);
+
+            Faculty f1 = new Faculty("Mr. Alex", "112233", 12.0f);
+            Faculty f2 = new Faculty("Mr. Andray", "445566", 13.0f);
+
+            c1.AddSection(x);
+            c1.AddSection(y);
+            c2.AddSection(z);
+
+            x.AddTeacher(f1);
+            y.AddTeacher(f1);
+            z.AddTeacher(f2);
+
+            c1.ShowSectionTeacher();
+            c2.ShowSectionTeacher();
+
+            f1.ShowSectionDetails();
+            f2.ShowSectionDetails();
             Console.ReadLine();
         }
    
