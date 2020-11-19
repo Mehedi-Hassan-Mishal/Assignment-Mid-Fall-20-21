@@ -8,7 +8,6 @@ namespace AssignmentMid
     {
         private string courseName;
         private string courseId;
-        private float teachingHour;
         Section[] sectionName = new Section[50];
         private int countSection = 0;
 
@@ -22,16 +21,10 @@ namespace AssignmentMid
             get { return courseId; }
             set { courseId = value; }
         }
-        public float TeachingHour
-        {
-            get { return teachingHour; }
-            set { teachingHour = value; }
-        }
-        public Course(string courseName, string courseId, float teachingHour)
+        public Course(string courseName, string courseId)
         {
             this.courseName = courseName;
             this.courseId = courseId;
-            this.teachingHour = teachingHour;
         }
   
         public void AddSection(Section sectionName)

@@ -10,8 +10,8 @@ namespace AssignmentMid
         {
             Department cse = new Department("CSE");
 
-            Course c1 = new Course("OOP1", "111",14.0f);
-            Course c2 = new Course("OOP2", "222",12.5f);
+            Course c1 = new Course("OOP1", "111");
+            Course c2 = new Course("OOP2", "222");
 
             cse.AddCourse(c1);
             cse.AddCourse(c2);

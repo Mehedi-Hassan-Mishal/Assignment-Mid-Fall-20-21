@@ -47,6 +47,7 @@ namespace AssignmentMid
         {
             Console.WriteLine("Teacher's Name: " + teacherName);
             Console.WriteLine("Teacher's Id: " + teacherId);
+            Console.WriteLine("Total hour of teaching:" + totalHourOfClass);
         }
 
         public void ShowSectionDetails()
